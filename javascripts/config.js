@@ -4,7 +4,7 @@ var githubname = 'zynickll';						//Your username of GitHub.
 var repos = 'zynickll.github.io';					//Name of repository that contains your blog.
 var sitetitle = 'define's blog';						//Name of your blog.
 var rss = '';									//Rss address of your blog.
-var suffix = '.md';								//Suffix of post files, '.' should be included.
+var suffix = '';								//Suffix of post files, '.' should be included.
 var branch = '';								//Branch of your blog repository. 'master' is default if you left it blank.
 
 //Sample Config:
